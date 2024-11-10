@@ -1,4 +1,4 @@
-unpatched
+https://www.tiktok.com/@izal210825?_t=8rHZMcUm8cK&_r=1unpatched
 > - added manual solving + cloudflare fix    
 > - unstable    
 > - need to put your own sessid sometimes   
